@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "userName": "ram",
+      "password": "ramabh@1",
+      "email": "ani@gmail.com"
+    },
+    {
+      "id": 34,
+      "userName": "vishal",
+      "password": "vishal@7",
+      "email": "vishal@gmail.com"
+    },
+    {
+      "id": 43,
+      "userName": "chintu",
+      "password": "chintu@1",
+      "email": "chintu@gmail.com"
+    },
+    {
+      "id": 9,
+      "userName": "ramchandra",
+      "password": "raj@1234",
+      "email": "raj@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 5,
+      "username": "raja",
+      "password": "raja@gma",
+      "email": "raja@gmail.com"
+    },
+    {
+      "id": 9,
+      "username": "rakesh",
+      "password": "rakesh@1",
+      "email": "ramesh@gmail.com"
+    },
+    {
+      "id": 21,
+      "username": "rakichand",
+      "password": "raki@123",
+      "email": "raki@gmail.com"
+    },
+    {
+      "id": 23,
+      "username": "ramchand",
+      "password": "ramchan@",
+      "email": "ramchand@gmail.com"
+    }
+  ],
+  "profile": [
+    [
+      "bhumesh",
+      "bhumesh@"
+    ],
+    [
+      "rahul",
+      "rahul@123"
+    ],
+    [
+      "ram",
+      "ram@12346"
+    ],
+    [
+      "raja",
+      "raja@890"
+    ]
+  ]
+}
